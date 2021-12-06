@@ -1,0 +1,8 @@
+tqdm
+dotmap
+opencv-python
+pandas
+pkbar
+gitpython
+tabulate
+numpy
